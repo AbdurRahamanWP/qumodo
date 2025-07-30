@@ -1,0 +1,48 @@
+----- 1.0.6 (02 Oct 2023) -----
+update  : Demo content updated
+update  : Theme option updated
+update  : TGM Plugin active function updated
+update  : qumodo-core plugin updated  ( 1.0.4 )
+updated : Compatibility with latest WordPress
+
+----- 1.0.5 (05 June 2023) -----
+Update : Compatible WordPress & Woocommerces latest version
+update : Demo content updated
+updated : qumodo-core pluign url updated
+
+
+----- 1.0.4 (07 March 2023) -----
+Update : Compatible WordPress & Woocommerces latest version
+New    : All Page Dark Demo
+Update : CSS file updated
+update : Demo content updated
+
+
+----- 1.0.3 (01 Dec 2022) -----
+Update : Compatible WordPress & Woocommerces latest version
+Update : qumodo Core Updated( 1.0.3 )
+Update : Elementor deprecated function update
+update : Demo content updated
+
+----- 1.0.3 (runnin 2022) -----
+Update : Compatible WordPress & Woocommerces latest version
+Update : qumodo Core Updated( 1.0.3 )
+Update : Elementor deprecated function update
+update : Demo content updated
+
+
+----- 1.0.2 (11 Nov 2022) -----
+New: 05 New Home Page Added
+New: Integration WooCommerce
+Update : qumodo Core Updated 
+update : Demo content updated
+
+
+----- 1.0.1 (01 Nov 2022) -----
+New: 10 New Home Page Added
+New: Dark mode added
+update : Demo content updated
+
+
+----- 1.0.0 (17 Oct 2022) -----
+Initial release

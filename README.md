@@ -1,2 +1,2 @@
 # qumodo
-Basic startup classics Theme 
+qumodo theme
